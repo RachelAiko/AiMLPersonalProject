@@ -1,7 +1,7 @@
 # AiMLPersonalProject
 Personal Choice Project for COP 3003 -  Artificial Intelligence with Machine Learning Oracle Academy course
 <h3 id="timeline">Timeline</h3>
-<p>Week:</p>
+<h3>Week:</h3>
 <ol>
 <li>Section 0: Course Resources <br>
   Section 1: Introduction <br>
