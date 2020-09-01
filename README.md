@@ -4,6 +4,17 @@ Personal Choice Project for COP 3003 -  Artificial Intelligence with Machine Lea
 <ul>
 <li>Finish the AiML Artificial Intelligence with Machine Learning in Java Learner on the Oracle Academy website.</li>
 </ul>
+<h2 id="success-criteria">Success criteria</h2>
+<ul>
+<li>Successfully complete all sections of the course.</li>
+<li>Weekly work log and summaries to demonstrate activity.</li>
+<li>Pass the Final Exam at the end of the course.</li>
+</ul>
+<h3 id="constraints">Constraints</h3>
+<ul>
+<li>Online course</li>
+<li>Self- paced</li>
+</ul>
 <h2 id="timeline">Timeline</h2>
 <h3>Week:</h3>
 <ol>
