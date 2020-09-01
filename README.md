@@ -1,6 +1,10 @@
 # AiMLPersonalProject
 Personal Choice Project for COP 3003 -  Artificial Intelligence with Machine Learning Oracle Academy course
-<h3 id="timeline">Timeline</h3>
+<h2 id="goals">Goals</h2>
+<ul>
+<li>Finish the AiML Artificial Intelligence with Machine Learning in Java Learner on the Oracle Academy website.</li>
+</ul>
+<h2 id="timeline">Timeline</h2>
 <h3>Week:</h3>
 <ol>
 <li>Section 0: Course Resources <br>
