@@ -47,7 +47,7 @@ Personal Choice Project for COP 3003 -  Artificial Intelligence with Machine Lea
 </ol>
 
 
-<h2 id="Work Log">Timeline</h2>
+<h2 id="Work Log">Work Log</h2>
 <h3>Week:</h3>
 <ol>
 <li>Completed Section 0 and Section 1: <br>
