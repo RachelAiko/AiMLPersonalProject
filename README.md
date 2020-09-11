@@ -45,3 +45,15 @@ Personal Choice Project for COP 3003 -  Artificial Intelligence with Machine Lea
 <li>AiML Final Exam <br>
   (3 hours)</li>
 </ol>
+
+
+<h2 id="Work Log">Timeline</h2>
+<h3>Week:</h3>
+<ol>
+<li>Completed Section 0 and Section 1 <br>
+   Went over how the course will be structured and the course objectives. In section 1, learned and took notes on the difference between AI and Machine Learning; what data and information are and how to distinguish between the two; and also how to catagorize data. <br>
+  (3 hours)</li>
+<li>Section 2: Machine Learning <br>
+  (2.5 hours)</li>
+<li>Sections 1 & 2 Quiz <br>
+  (3 hours)</li>
