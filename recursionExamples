@@ -1,0 +1,15 @@
+  // example of a recursive method that takes a number(a) and raises it the power of a number(n).
+  // uses an if/else instead of a for loop that would typically be used.
+  
+    int power(int a, int n) {
+
+       System.out.println("a: " + a + " n: " + n); // shows the the decrementing of n.
+        
+       if (n == 0) {   // base case for a^n is when n = 0. Prevents the method from being called again.
+           return 1;
+       }
+       else {
+           return a * power(a, n - 1); // method calls itself  repeatedly until the base case is reached.
+        }
+    }
+
