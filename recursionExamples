@@ -1,11 +1,14 @@
+// Examples of Recursive Methods.  Oracle examples and practice.
+  
+ 
   // example of a recursive method that takes a number(a) and raises it the power of a number(n).
   // uses an if/else instead of a for loop that would typically be used.
   
-    int power(int a, int n) {
+   public int power(int a, int n) {
 
        System.out.println("a: " + a + " n: " + n); // shows the the decrementing of n.
         
-       if (n == 0) {   // base case for a^n is when n = 0. Prevents the method from being called again.
+       if (n == 0) {   // base case for a^n is when n = 0. Prevents the method from being called again. Often when value of 1 or 0 is reached.
            return 1;
        }
        else {
@@ -13,3 +16,20 @@
         }
     }
 
+ // example of a recursive method that calculates a factorial
+   public static int factorial(int n) {
+       if (n == 1) {
+           return 1;
+       }
+       return n * factorial (n - 1);
+    }
+ 
+ // method that uses recursion to calculate Fibonacci Numbers
+    public static int FibonacciNumbers (int x) {
+       if (x < 2) {
+           return 1;
+       }
+       else {
+           return FibonacciNumbers(x - 1) + FibonacciNumbers(x - 2);
+        }
+    }
