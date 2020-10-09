@@ -42,6 +42,7 @@ public class Node {
 
 
     // recursive tree traversal methods
+    // pre-order traversal
     void printPreOrder(Node node) {
 
         if (node == null)
@@ -51,7 +52,8 @@ public class Node {
         printPreOrder(node.left);
         printPreOrder(node.right);
     }
-
+    
+    // post-order traversal
     void printPostOrder(Node node) {
 
         if (node == null)
@@ -61,7 +63,8 @@ public class Node {
         printPostOrder(node.left);
         printPostOrder(node.right);
     }
-
+    
+    // in-order traversal
     void printInOrder(Node node) {
 
         if (node == null)
