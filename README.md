@@ -59,4 +59,11 @@ Personal Choice Project for COP 3003 -  Artificial Intelligence with Machine Lea
   (3 hours)</li>
 <li>(9/21) Completed Section 3.3: Tree Traversal.  Took notes and went back over the previous two sections.  <br>
   (2 hours)</li>
+<li>(9/28) Reviewed the Section 3 in preperation for the creation of the Yes/No game.  <br>
+  (2 hours)</li>
+<li>(10/5) Went over Section 3.4 Yes/No game.  <br>
+  (2 hours)</li>
+<li>(10/12) Started work on Yes/No game.  <br>
+  (2 hours)</li>
+  
 
