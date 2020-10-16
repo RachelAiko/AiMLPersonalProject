@@ -64,6 +64,6 @@ Personal Choice Project for COP 3003 -  Artificial Intelligence with Machine Lea
 <li>(10/5) Went over Section 3.4 Yes/No game.  <br>
   (2 hours)</li>
 <li>(10/12) Started work on Yes/No game.  <br>
-  (2 hours)</li>
+  (3 hours)</li>
   
 
