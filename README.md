@@ -65,5 +65,11 @@ Personal Choice Project for COP 3003 -  Artificial Intelligence with Machine Lea
   (2 hours)</li>
 <li>(10/12) Started work on Yes/No game.  <br>
   (3 hours)</li>
+<li>(10/19) Finished the Yes/No game.  <br>
+  (3 hours)</li>
+<li>(11/2) Completed Section 4.1: Decision Tree Algorithms  <br>
+  (3 hours)</li>
+<li>(11/9) Completed Section 4.2: Information Entropy   <br>
+  (3 hours)</li>
   
 
