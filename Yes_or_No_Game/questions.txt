@@ -1,0 +1,34 @@
+Question:
+Is your fruit yellow?
+Question:
+Is your fruit sour?
+Answer:
+lemon
+Question:
+Does your fruit grow on a bush?
+Answer:
+pinapple
+Answer:
+banana
+Question:
+Is your fruit orange?
+Answer:
+orange
+Question:
+Does your fruit grow on a tree?
+Question:
+Is it fuzzy?
+Answer:
+peach
+Answer:
+apple
+Question:
+Do people eat your fruit on a pizza?
+Question:
+Do people put it in a salad?
+Answer:
+tomato
+Answer:
+pinapple
+Answer:
+strawberry
