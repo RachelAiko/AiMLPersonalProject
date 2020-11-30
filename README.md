@@ -71,5 +71,14 @@ Personal Choice Project for COP 3003 -  Artificial Intelligence with Machine Lea
   (3 hours)</li>
 <li>(11/9) Completed Section 4.2: Information Entropy   <br>
   (3 hours)</li>
+<li>(11/16) Completed Section 4.3: ID3 Worked Example   <br>
+  (3 hours)</li>
+<li>(11/23) Completed Section 4.4: Create an ID3 Tree   <br>
+  (3 hours)</li>
+<li>(11/30) Reviewed material from previous weeks and completed Sections 3&4 Quiz, and also the AiML final Exam.   <br>
+  (3 hours)</li>
+  
+  
+  
   
 
