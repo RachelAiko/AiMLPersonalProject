@@ -55,7 +55,7 @@ Personal Choice Project for COP 3003 -  Artificial Intelligence with Machine Lea
   (3 hours)</li>
 <li>(9/7) Completed Section 2: Machine Learning and Took Sections 1 & 2 Quiz <br>
   (3 hours)</li>
-  ![Course Progress](Course Progress/Sections 0-2.png)
+  ![Course Progress](CourseProgress/Sections 0-2.png)
 <li>(9/14) Completed Section 3.1: Binary Trees and Section 3.2: Recursion.  Took notes and studied topics. <br>
   (3 hours)</li>
 <li>(9/21) Completed Section 3.3: Tree Traversal.  Took notes and went back over the previous two sections.  <br>
